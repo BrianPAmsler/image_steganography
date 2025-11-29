@@ -1,5 +1,5 @@
-# image_thing
-encode things into images
+# image_steganography
+Hide text or arbitrary files into images
 
 Currently only supports .png files.
 
